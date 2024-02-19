@@ -1,6 +1,7 @@
 backend:
   name: github
   repo: tsantosdok/decap
+  use_graphql: true
 media_folder: public/img
 public_folder: img
 collections:
