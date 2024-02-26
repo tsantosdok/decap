@@ -4,14 +4,19 @@ backend:
   use_graphql: true
 media_folder: public/img
 public_folder: img
+publish_mode: editorial_workflow
 collections:
   - name: "pages"
     label: "Pages"
     files:
     - label: "Home"
       name: "home"
-      file: "content/home.md"
+      file: "src/content/home.md"
       fields:
+        - name: categories
+          label: Categories
+          widget: test
+          separator: __
         - { label: "Title", name: "title", widget: "string"}
         - { label: "Publish Date", name: "date", widget: "datetime" }
         - { label: "Body", name: "body", widget: "markdown"}
