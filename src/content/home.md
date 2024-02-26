@@ -1,11 +1,17 @@
 ---
-categories: '{"enable":false,"md":"Quer saber se o pagamento do licenciamento
-  2024 já está disponível ou então deseja verificar se a licença de anos
-  anteriores está em dia? Nesse caso, é fundamental fazer a consulta de débitos
-  veiculares.\n\n\n\nEsse é um procedimento rápido, seguro e gratuito, que pode
-  ser feito aqui mesmo no site do DOK Despachante. Para isso, basta clicar no
-  botão abaixo e, no nosso formulário de consulta, inserir a placa do veículo,
-  estado de registro e um e-mail válido.","title":"","button":"","link":"#"}'
+categories: '{"enable":true,"test":[{"enable":false,"md":"Quer saber se o
+  pagamento do licenciamento 2024 já está disponível ou então deseja verificar
+  se a licença de anos anteriores está em dia? Nesse caso, é fundamental fazer a
+  consulta de débitos veiculares.  \n\nEsse é um procedimento rápido, seguro e
+  gratuito, que pode ser feito aqui mesmo no site do DOK Despachante. Para isso,
+  basta clicar no botão abaixo e, no nosso formulário de consulta, inserir a
+  placa do veículo, estado de registro e um e-mail válido.","title":"Como
+  consultar o licenciamento 2024?","button":"Consultar licenciamento
+  2024","link":"#"},{"enable":false,"md":"Quer saber se o pagamento do
+  licenciamento 2024 já está disponível ou então deseja verificar se a licença
+  de anos anteriores está em dia? Nesse caso, é fundamental fazer a consulta de
+  débitos veiculares.","title":"Licenciamento 2024: Como
+  consultar","button":"Licenciamento 2024","link":"#2"}]}'
 title: Awesome kitties
 date: 2019-03-17T19:31:20.591Z
 cats:
