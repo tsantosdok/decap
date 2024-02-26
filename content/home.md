@@ -6,7 +6,7 @@ categories: '{"value":"3sadsddssasas","enable":false,"md":"Quer saber se o
   gratuito, que pode ser feito aqui mesmo no site do DOK Despachante. Para isso,
   basta clicar no botão abaixo e, no nosso formulário de consulta, inserir a
   placa do veículo, estado de registro e um e-mail
-  válido.","":"3sadsddssasa","title":"Como consultar o licenciamento
+  válido","":"3sadsddssasa","title":"Como consultar o licenciamento
   2024?","button":"Consultar licenciamento 2024","link":"#test"}'
 title: Awesome Titleaaa
 date: 2019-03-17T19:31:20.591Z
